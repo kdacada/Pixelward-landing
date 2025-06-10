@@ -5,24 +5,23 @@ PixelWard™ is building the next-generation privacy shield for creatives, activ
 
 ---
 
-## 🌐 Live Site
-
+## 🌐 Live Site  
 [https://www.pixelward.com](https://www.pixelward.com)
 
 ---
 
 ## 🎨 Theme
 
-- Gradient blend of **pink** and **blue**, symbolizing emotional trust + cyber defense.
-- Smooth, elegant entrance animations for a modern, protective atmosphere.
-- "Coming Soon" interactive landing page for early brand recognition.
+- Gradient blend of **pink** and **blue**, symbolizing emotional trust + cyber defense  
+- Smooth, elegant entrance animations for a modern, protective atmosphere  
+- "Coming Soon" interactive landing page for early brand recognition
 
 ---
 
 ## 🚀 Built With
 
-- **Framework:** Next.js (React)
-- **Styling:** Tailwind CSS
+- **Framework:** Next.js (React)  
+- **Styling:** Tailwind CSS  
 - **Hosting:** Vercel (Production + Custom Domain)
 
 ---
@@ -51,17 +50,16 @@ PixelWard will remain open to collaborations, but backend systems are **reserved
 
 ## 🗓️ Phase Timeline
 
-| Phase | Description | Status | Timestamp |
-|-------|-------------|--------|-----------|
-| **Phase 1** | MVP Launch (Landing Page, Theme, Branding) | ✅ Completed | `6/09/2025 - 11:56 PM` |
-| Phase 2 | Image Upload, Filtering, AI Layer Protection | 🚧 In Progress | TBA |
-| Phase 3 | Offline Support + Paid Membership System | ⏳ Planned | TBA |
-| Phase 4 | Social Media API Hooks + Watermark Enforcement | ⏳ Planned | TBA |
+| Phase      | Description                                     | Status        | Timestamp           |
+|------------|-------------------------------------------------|----------------|----------------------|
+| Phase 1    | MVP Launch (Landing Page, Theme, Branding)      | ✅ Completed    | 6/09/2025 - 11:56 PM |
+| Phase 2    | Image Upload, Filtering, AI Layer Protection     | 🚧 In Progress | TBA                  |
+| Phase 3    | Offline Support + Paid Membership System         | ⏳ Planned     | TBA                  |
+| Phase 4    | Social Media API Hooks + Watermark Enforcement   | ⏳ Planned     | TBA                  |
 
 ---
 
-## 📬 Contact
-
+## 📬 Contact  
 📧 [kdacada@pixelward.com](mailto:kdacada@pixelward.com)
 
 ---
@@ -72,5 +70,3 @@ This repository is licensed under a **strict "No Resale, No Redistribution" poli
 Cloning or modifying this project for commercial use without written permission is prohibited.
 
 © 2025 PixelWard™ — All rights reserved.
-
----

@@ -32,6 +32,17 @@ export default function Home() {
           </motion.button>
         </motion.div>
       </AnimatePresence>
+
+      <footer className="text-center text-white text-sm mt-10 opacity-80">
+        <p>© 2025 PixelWard™ — Created by Khalil Dancy</p>
+        <p>
+          Contact:{" "}
+          <a href="mailto:kdacada@pixelward.com" className="underline">
+            kdacada@pixelward.com
+          </a>
+        </p>
+      </footer>
+
       <div className="absolute bottom-0 w-full h-40 bg-gradient-to-t from-black/40 to-transparent animate-pulse"></div>
     </div>
   );
