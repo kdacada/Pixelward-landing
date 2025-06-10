@@ -33,8 +33,15 @@ export default function Home() {
         </motion.div>
       </AnimatePresence>
 
+      {/* 🔐 Watermark Overlay */}
+      <div className="absolute bottom-5 right-5 text-white text-xs opacity-20 pointer-events-none select-none">
+        PixelWard™
+      </div>
+
+      {/* Background Fade Effect */}
       <div className="absolute bottom-0 w-full h-40 bg-gradient-to-t from-black/40 to-transparent animate-pulse"></div>
 
+      {/* ✅ Legal Footer */}
       <footer className="text-center text-white text-sm mt-16 opacity-80">
         <p>© 2025 PixelWard™ — Created by Khalil Dancy</p>
         <p>
