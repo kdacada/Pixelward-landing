@@ -7,7 +7,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pixel-pink via-fuchsia-500 to-pixel-blue text-white flex flex-col justify-center items-center">
+    <div className="min-h-screen bg-gradient-to-br from-pixel-pink via-fuchsia-500 to-pixel-blue text-white flex flex-col justify-center items-center relative">
       <AnimatePresence>
         <motion.div
           initial={{ opacity: 0, y: -30 }}
@@ -33,7 +33,9 @@ export default function Home() {
         </motion.div>
       </AnimatePresence>
 
-      <footer className="text-center text-white text-sm mt-10 opacity-80">
+      <div className="absolute bottom-0 w-full h-40 bg-gradient-to-t from-black/40 to-transparent animate-pulse"></div>
+
+      <footer className="text-center text-white text-sm mt-16 opacity-80">
         <p>© 2025 PixelWard™ — Created by Khalil Dancy</p>
         <p>
           Contact:{" "}
@@ -42,8 +44,6 @@ export default function Home() {
           </a>
         </p>
       </footer>
-
-      <div className="absolute bottom-0 w-full h-40 bg-gradient-to-t from-black/40 to-transparent animate-pulse"></div>
     </div>
   );
 }
