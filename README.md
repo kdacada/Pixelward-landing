@@ -1,6 +1,6 @@
 # 🛡️ PixelWard
 
-**Defend your identity with AI-powered image protection that adapts before the internet sees it.**  
+
 PixelWard™ is building the next-generation privacy shield for creatives, activists, and everyday users — one pixel at a time.
 
 ---
@@ -10,11 +10,7 @@ PixelWard™ is building the next-generation privacy shield for creatives, activ
 
 ---
 
-## 🎨 Theme
 
-- Gradient blend of **pink** and **blue**, symbolizing emotional trust + cyber defense  
-- Smooth, elegant entrance animations for a modern, protective atmosphere  
-- "Coming Soon" interactive landing page for early brand recognition
 
 ---
 
@@ -49,13 +45,6 @@ PixelWard will remain open to collaborations, but backend systems are **reserved
 ---
 
 ## 🗓️ Phase Timeline
-
-| Phase      | Description                                     | Status        | Timestamp           |
-|------------|-------------------------------------------------|----------------|----------------------|
-| Phase 1    | MVP Launch (Landing Page, Theme, Branding)      | ✅ Completed    | 6/09/2025 - 11:56 PM |
-| Phase 2    | Image Upload, Filtering, AI Layer Protection     | 🚧 In Progress | TBA                  |
-| Phase 3    | Offline Support + Paid Membership System         | ⏳ Planned     | TBA                  |
-| Phase 4    | Social Media API Hooks + Watermark Enforcement   | ⏳ Planned     | TBA                  |
 
 ---
 
